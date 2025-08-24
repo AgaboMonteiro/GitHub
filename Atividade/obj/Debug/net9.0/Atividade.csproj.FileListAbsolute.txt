@@ -1,0 +1,14 @@
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\bin\Debug\net9.0\Atividade.exe
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\bin\Debug\net9.0\Atividade.deps.json
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\bin\Debug\net9.0\Atividade.runtimeconfig.json
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\bin\Debug\net9.0\Atividade.dll
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\bin\Debug\net9.0\Atividade.pdb
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfo.cs
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\Atividade.dll
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\refint\Atividade.dll
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\Atividade.pdb
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\Atividade.genruntimeconfig.cache
+C:\Users\agabo\OneDrive\Área de Trabalho\GitHub\Atividade\obj\Debug\net9.0\ref\Atividade.dll
