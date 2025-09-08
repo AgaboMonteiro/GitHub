@@ -4,7 +4,9 @@ class Atividade11
 {
     static void Main()
     {
-        string mensagem = Console.ReadLine();
+        String mensagem;
+        Console.WriteLine("Entre com uma frase codificada")
+        mensagem = Console.ReadLine();
         string resultado = "";
 
         for (int i = 0; i < mensagem.Length; i++)
@@ -22,4 +24,5 @@ class Atividade11
 
         Console.WriteLine(resultado);
     }
+
 }
