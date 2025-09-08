@@ -1,28 +1,37 @@
 ﻿using System;
 
-class Atividade11
+class Program
 {
-    static void Main()
+    static string decodificar(string fraseCodificada)
     {
-        String mensagem;
-        Console.WriteLine("Entre com uma frase codificada")
-        mensagem = Console.ReadLine();
-        string resultado = "";
+        int n = fraseCodificada.Length;
+        int pos = 0;
+        char[] decodifica = new char[n];
 
-        for (int i = 0; i < mensagem.Length; i++)
+        for (int i = 0; i < n; i++)
         {
-            if (mensagem[i] == 'p' && i + 1 < mensagem.Length && mensagem[i + 1] != ' ')
+            if (fraseCodificada[i] == 'p' && i + 1 < n && fraseCodificada[i + 1] != ' ')
             {
-                resultado = resultado + mensagem[i + 1];
-                i++;
+                
+                decodifica[pos] = fraseCodificada[i + 1];
+                pos++;
+                i++; 
             }
-            else if (mensagem[i] != 'p')
+            else if (fraseCodificada[i] != 'p')
             {
-                resultado = resultado + mensagem[i];
+                decodifica[pos] = fraseCodificada[i];
+                pos++;
             }
         }
 
-        Console.WriteLine(resultado);
+        // Cria a string só com os caracteres válidos
+        return new string(decodifica, 0, pos);
     }
 
+    static void Main()
+    {
+        Console.WriteLine("Entre com uma frase codificada:");
+        string frase = Console.ReadLine();
+        Console.WriteLine("Frase decodificada: " + decodificar(frase));
+    }
 }
