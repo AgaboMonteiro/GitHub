@@ -24,7 +24,6 @@ class Atividade11
             }
         }
 
-        // Cria a string só com os caracteres válidos
         return new string(decodifica, 0, pos);
     }
 
